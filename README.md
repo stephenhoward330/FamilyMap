@@ -1,2 +1,2 @@
 # FamilyMap
-for CS 240
+Android app for CS 240
